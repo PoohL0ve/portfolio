@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+:root {
+    font-family: Raleway, monospace;
+    background-color: #161616;
+    color: #e3e2e2;
+    border: 5px solid #65deee;
+    margin: 0px 25px 0px 25px;
+    padding: 10px;
+}

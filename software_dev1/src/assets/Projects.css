@@ -1,0 +1,19 @@
+
+.carousel {
+    border: 2px solid #65deee;
+    width: 600px;
+    height: 700px;
+    margin: 10px auto;
+    background-color: white;
+    color: black;
+
+}
+img {
+    width: 80%;
+    height: 90%;
+    min-height: 200px;
+    min-width: 200px;
+    border: 2px solid #65deee;
+    border-radius: 10px;
+    margin: 5px auto;
+}
